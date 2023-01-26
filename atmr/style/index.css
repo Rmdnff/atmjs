@@ -1,0 +1,27 @@
+html, body {
+  background-color: blue;
+}
+
+.container{
+    margin-left: 150px;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading1 h1{
+margin-top: 140px;
+}
+
+h1{
+  color: white;
+}
+
+.img{
+display: flex;
+justify-content: right;
+}
+
+.img img{
+    width: 400px;
+    margin-right: 300px;
+}

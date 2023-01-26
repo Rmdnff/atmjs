@@ -1,0 +1,30 @@
+html, body {
+    background-color: blue;
+  }
+
+.container{
+    text-align: center;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+hr{
+    width: 700px;
+}
+
+h1{
+    color: white;
+    padding: 10px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    display: flex;
+    margin-right: 500px;
+    justify-content: end;
+    padding: 40px;
+}

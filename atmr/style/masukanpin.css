@@ -1,0 +1,50 @@
+html, body {
+    background-color: blue;
+    font-family: sans-serif;
+  }
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img img{
+    width: 550px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.text1{
+    margin-bottom: 70px;
+}
+
+.text2{
+    margin-top: 100px;
+}
+
+h1{
+    color: white;
+    
+}
+
+input{
+    font-size: 30px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.form{
+    text-align: center;
+    width: 500px;
+    margin-right: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+

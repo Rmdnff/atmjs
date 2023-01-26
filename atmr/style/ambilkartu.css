@@ -1,0 +1,15 @@
+html, body {
+    background-color: blue;
+  }
+
+  .container{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  h1{
+    color: white;
+    margin-bottom: 200px;
+  }
